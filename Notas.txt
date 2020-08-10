@@ -1,0 +1,8 @@
+En la carpeta git init
+ver estado git status
+agregar los archivos nuevos git add .
+commit changes git commit -m "message"
+ver los commits git log --oneline
+ver un archivo en version anterior git checkout id nombrearchivo
+deshacer cambios git reset HEAD nombrearchivo y git checkout -- nombrearchivo
+
